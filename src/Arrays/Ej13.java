@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Ej13 {
 
-	private List<Object> lista;
+	
 	
 	
 	
